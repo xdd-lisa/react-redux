@@ -1,0 +1,8 @@
+1.安装依赖
+npm i
+
+2.启动项目
+npm run dev
+
+3.打包项目
+npm run build
